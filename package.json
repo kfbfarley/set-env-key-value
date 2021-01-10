@@ -1,0 +1,26 @@
+{
+  "name": "@kfbfarley/set-env-key-value",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "version": "1.0.15",
+  "description": "Node.js package for environment variables editor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfbfarley/set-env-key-value.git"
+  },
+  "keywords": [
+    ".env",
+    "editor"
+  ],
+  "author": "@kfbfarley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfbfarley/set-env-key-value/issues"
+  },
+  "homepage": "https://github.com/kfbfarley/set-env-key-value#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
